@@ -133,7 +133,9 @@ public class Main {
             removeItemLine();
         }
     }
+    static void addTes() {
 
+    }
     static void addCustomer() {
         Customer customer = new Customer();
         customer.assignNewId();
